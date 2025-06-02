@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Arvore {
+public class BinarySearchTree {
     private No raiz;
 
     public void inserir(String texto) {
