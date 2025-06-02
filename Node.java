@@ -1,4 +1,4 @@
-public class No {
+public class Node {
     Palavra palavra;
     No esquerda, direita;
 
